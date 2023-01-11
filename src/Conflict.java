@@ -1,3 +1,6 @@
 public class Conflict {
-    // hello WOlrd
+
+    // hello world
+    
+    // Hello World 2
 }
